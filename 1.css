@@ -1,0 +1,13 @@
+a:visited{color:white;}
+
+a:hover{color:green;}
+
+a:active{color:hotpink;}
+
+.h{background-color:red;font-family:sans-serif;}
+
+#abc{background-color:yellow;}
+
+body{background-color:grey;}
+
+table{border:3px solid;}
